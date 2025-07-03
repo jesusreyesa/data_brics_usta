@@ -14,4 +14,4 @@
 
 ## Ejemplo de Código
 
-A continuación se muestra un ejemplo de cómo puedes comenzar con el ejercicio:
+A continuación se muestra un ejemplo de cómo puedes comenzar con el ejercicio: xd
